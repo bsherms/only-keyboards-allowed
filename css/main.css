@@ -29,6 +29,10 @@ html {
   background-color: rgba(180, 220, 255, .5);
 }
 
+a:focus {
+  outline: 2px solid #fff;
+}
+
 .masthead {
   background-image: url("../images/galaxy-evolution-explorer.jpg");
 }
